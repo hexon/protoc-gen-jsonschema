@@ -1,9 +1,9 @@
 package modules
 
 import (
-	"github.com/pubg/protoc-gen-jsonschema/pkg/jsonschema"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/proto"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/utils"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/jsonschema"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/proto"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/utils"
 )
 
 func fillSchemaByObjectKeywords(pluginOptions *proto.PluginOptions, schema *jsonschema.Schema, keywords *proto.ObjectKeywords) {

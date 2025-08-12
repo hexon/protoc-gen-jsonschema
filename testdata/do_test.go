@@ -9,7 +9,7 @@ import (
 
 	pgs "github.com/lyft/protoc-gen-star/v2"
 	"github.com/lyft/protoc-gen-star/v2/testutils"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/modules"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/modules"
 	"github.com/samber/lo"
 	"github.com/stretchr/testify/require"
 	"k8s.io/apimachinery/pkg/util/yaml"

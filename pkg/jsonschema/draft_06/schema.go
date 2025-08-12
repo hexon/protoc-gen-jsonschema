@@ -2,8 +2,8 @@ package draft_06
 
 import (
 	"github.com/iancoleman/orderedmap"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/jsonschema"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/utils"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/jsonschema"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/utils"
 )
 
 type Schema struct {

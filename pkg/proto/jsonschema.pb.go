@@ -1235,7 +1235,7 @@ const file_jsonschema_proto_rawDesc = "" +
 	"\x05field\x12\x1d.google.protobuf.FieldOptions\x18\xcfX \x01(\v2\x1d.pubg.jsonschema.FieldOptionsR\x05field:O\n" +
 	"\x04enum\x12\x1c.google.protobuf.EnumOptions\x18\xd0X \x01(\v2\x1c.pubg.jsonschema.EnumOptionsR\x04enum:d\n" +
 	"\n" +
-	"enum_value\x12!.google.protobuf.EnumValueOptions\x18\xd1X \x01(\v2!.pubg.jsonschema.EnumValueOptionsR\tenumValueB1Z/github.com/pubg/protoc-gen-jsonschema/pkg/protob\x06proto3"
+	"enum_value\x12!.google.protobuf.EnumValueOptions\x18\xd1X \x01(\v2!.pubg.jsonschema.EnumValueOptionsR\tenumValueB1Z/github.com/hexon/protoc-gen-jsonschema/pkg/protob\x06proto3"
 
 var (
 	file_jsonschema_proto_rawDescOnce sync.Once

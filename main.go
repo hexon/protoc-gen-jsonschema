@@ -5,7 +5,7 @@ import (
 	"os"
 
 	pgs "github.com/lyft/protoc-gen-star/v2"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/modules"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/modules"
 	"google.golang.org/protobuf/types/pluginpb"
 )
 
@@ -35,7 +35,7 @@ EXAMPLE: I'm not satisfied with the plugin's options. I want to customize every 
 cp jsonschema.proto examples/jsonschema.proto
 protoc --jsonschema_out=. --proto_path=examples examples/jsonschema.proto
 
-Please check https://github.com/pubg/protoc-gen-jsonschema for more details.
+Please check https://github.com/hexon/protoc-gen-jsonschema for more details.
 
 FLAGS:
   --version  : print version

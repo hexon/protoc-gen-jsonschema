@@ -8,10 +8,10 @@ If you’d like to support other specification, contributions are always welcome
 
 If you have go runtime, you can `go install` it.
 ```
-go install github.com/pubg/protoc-gen-jsonschema
+go install github.com/hexon/protoc-gen-jsonschema
 ```
 
-Alternatively, you can download pre-built binary from [Github Release](https://github.com/pubg/protoc-gen-jsonschema/releases).
+Alternatively, you can download pre-built binary from [Github Release](https://github.com/hexon/protoc-gen-jsonschema/releases).
 
 # Usage
 

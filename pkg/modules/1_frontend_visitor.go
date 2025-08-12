@@ -2,8 +2,8 @@ package modules
 
 import (
 	pgs "github.com/lyft/protoc-gen-star/v2"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/jsonschema"
-	"github.com/pubg/protoc-gen-jsonschema/pkg/proto"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/jsonschema"
+	"github.com/hexon/protoc-gen-jsonschema/pkg/proto"
 )
 
 // MiddleendVisitor generate intermediate jsonschema from protobuf
